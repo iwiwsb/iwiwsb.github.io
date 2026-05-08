@@ -1,4 +1,4 @@
-locale = 'en-us'
+locale = 'ru-ru'
 title = 'My New Hugo Project'
 theme = 'hugo-book'
 
